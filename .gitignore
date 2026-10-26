@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# Azure Functions - local secrets, never commit
+local.settings.json
+
+# Editors / OS
+.vscode/
+.DS_Store
